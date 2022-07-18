@@ -1,0 +1,12 @@
+.home {
+    background-color: rgb(235, 235, 235);
+    height: 100vh;
+}
+
+.spinner{
+    justify-content: space-around;
+}
+
+.errorInput{
+    color: red;
+}
