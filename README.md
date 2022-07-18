@@ -4,6 +4,6 @@ Para comenzar instalar paquete node_modules en ambos lugares, tanto back como fr
 
 Inicializar mongodb local, ej: si es windows, mongod
 
-luego correr backen con "npm run dev"
+luego correr backend con "npm run dev"
 
 Siguiendo con el front "npm start"
